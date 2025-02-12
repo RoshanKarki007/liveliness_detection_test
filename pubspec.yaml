@@ -30,7 +30,7 @@ environment:
 dependencies:
   cupertino_icons: ^1.0.8
   facelivenessdetection:
-    path: packages
+    path: package
   flutter:
     sdk: flutter
 
