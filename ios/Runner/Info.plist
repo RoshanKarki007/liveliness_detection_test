@@ -45,5 +45,7 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>This app uses the camera for real-time facial verification with Google ML Kit. It ensures secure authentication through liveliness detection, requiring user interactions like smiling, blinking, and head movements</string>
 </dict>
 </plist>
